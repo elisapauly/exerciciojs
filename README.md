@@ -1,2 +1,4 @@
-# exerciciojs
+# -------------
+# Exerciciojs ☺
 Exercicios de JavaScript 
+# -------------
